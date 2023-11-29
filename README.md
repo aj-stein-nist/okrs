@@ -1,12 +1,5 @@
 # A.J. Stein's Performance Management Plan for FY2024
 
-## Goals
-
-- Build a One NIST Culture.
-- To promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve the quality of life.
-- Advance measurement science, standards, and technology through research and development in information technology, mathematics, and statistics.
-- To establish a level playing field for American workers and businesses in the global economy by leveraging our tools of data and analysis.
-
 ## Critical Elements
 
 ### [OSCAL Program Management](https://github.com/aj-stein-nist/okrs/milestone/1)
