@@ -213,7 +213,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
     - Other SDOs ([JEDEC JEP30](https://www.jedec.org/category/technology-focus-area/jep30) :hourglass:; OpenCompute :hourglass:; TBD)
 1. Prototype transparency services
     - Multi-party SCITT service with JEP 30 supply chain data
-1. Outreach for :one: :two: :three:
+1. Outreach for :one: :two: :three: (papers; presentations)
 ---
 
 ### Deliverables
@@ -264,7 +264,9 @@ Fabs → integrators → corporations (product and consume) → pure consumers
     - August 2024
         - First white paper on transparency services impact and need for hardware
     - September 2024
+        - First prototype implementation of SCITT service with JEP30 data about semiconductors
         - NISTIR white paper outlining transparency challenges
+    - TBD
 
 ---
 
