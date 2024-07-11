@@ -37,7 +37,7 @@ A.J. Stein IT Cybersecurity Specialist NIST ITL CSD 773.02
     - [Metaschema](https://pages.nist.gov/metaschema/) (information and data modeling)
     - [OSCAL](https://pages.nist.gov/OSCAL) (risk management + security automation)
     - [BloSS@M](https://github.com/usnistgov/blossom-case-study/) (software )
-- Pivot take experience :point_up:, research, and apply to :point_down:
+- Pivot, take experience from :point_up:, research, and apply to :point_down:
 - Now (March 2024 to now)
     - :mag_right: Transparency mechanisms for hardware and software understanding :mag:
 
@@ -66,7 +66,7 @@ A.J. Stein IT Cybersecurity Specialist NIST ITL CSD 773.02
 
 :white_check_mark: Define hardware-first traceability strategy
 :white_check_mark: Leverage existing standards; incubate emerging standards
-:white_check_mark: Guide industry convergence on minimally viable data structures traceability
+:white_check_mark: Guide industry convergence on minimally viable data, data structures for traceability
 :question: Converge on minimally required protocol(s)
 
 ---
@@ -75,7 +75,7 @@ A.J. Stein IT Cybersecurity Specialist NIST ITL CSD 773.02
 
 
 :white_check_mark: Unify industry on strategy
-:white_check_mark: Field test standards and architectures with industry; decentralize traceability
+:white_check_mark: Field test standards and architectures with industry for _decentralized_ traceability
 :white_check_mark: Define best practices across standards super-sets
 :x: Recommend or implement _centralized_ infrastructure
 :x: Recommend or implement _centralized_ accreditation labs
@@ -132,8 +132,8 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 ### Why is it important?
 
 - Separate of :us: :earth_americas: law, executive order, self-regulation, and co-regulation,
-    - These are trillion dollar problems.
-    - One company, one consortium, or one SDO cannot solve it, NIST must _orchestrate_ these efforts.
+    - these are trillion dollar problems.
+    - one company, one consortium, or one SDO cannot solve it, NIST must _orchestrate_ these efforts.
 
 ---
 
@@ -150,6 +150,11 @@ Fabs → integrators → corporations (product and consume) → pure consumers
     - pre-silicon
     - fabrication
     - post-silicon (product integration)
+
+---
+
+### Who changes?
+
 - Focus initial change on fabrication
     - Largest leverage, biggest gaps 
 - After adoption by fabrication companies, expand in order of traceability difficulty
