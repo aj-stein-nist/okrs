@@ -248,6 +248,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 4. Establish partnerships and build evaluation architectures for traceability use cases.
 - Report on successes and failures from evaluation transparency services and challenge solutions.
 - For failures and newly discovered gaps, feed results back into work groups and incrementally enhance solutions, work through cycle from two to four again.
+5. Transition from out-of-band transparency lookups to remotely attested hardware.
 
 ---
 
