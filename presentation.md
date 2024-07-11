@@ -218,17 +218,46 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 
 ---
 
-### Preliminary Strategy
+### Strategy
+
+1. Socialize the key pillars of traceability through transparency services and outline challenges to their long-term implementation.
+2. Socialize the challenges to transparency pillars that hinder large-scale exchange of semiconductor traceability data.
+    - Identity (organizations; persons; NPEs; hardware; software)
+    - Discovery (products; components; sub-components)
+    - Repeatability
+    - Consistency
+    - Verification
+    
+(:point_up: begin in this order, identity is well-established and most challenging)
+
+---
+
+### Strategy
+
+3. For each pillar establishing working groups in order to
+- define solution requirement to that challenge
+- identify existing standards that meet some or all requirements
+- identify requirement gaps where new standards are necessary
+- create or update mapping of cross-standard data elements and interaction model
+- publish pillar 
+
+---
+
+### Strategy
+
+4. Establish partnerships and build evaluation architectures for traceability use cases.
+- Report on successes and failures from evaluation transparency services and challenge solutions.
+- For failures and newly discovered gaps, feed results back into work groups and incrementally enhance solutions, work through cycle from two to four again.
 
 ---
 
 ### Timelines
 
 - FY24
-    - July 2024
     - August 2024
         - First white paper on transparency services impact and need for hardware
     - September 2024
+        - NISTIR white paper outlining transparency challenges
 
 ---
 
@@ -237,6 +266,8 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 - FY25
     - October 2024
         - Convene [Transparency.dev Summit](https://transparency.dev/summit) at Google London
+    - February 2025
+        - NIST hardware traceability workshop
 
 ---
 
@@ -261,6 +292,8 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 ---
 
 ## Questions?
+
+[aj@nist.gov](mailto:aj@nist.gov) and [hwsec@nist.gov](mailto:hwsec@nist.gov)
 
 ![bg](https://raw.githubusercontent.com/aj-stein-nist/okrs/6dd9375c3274508fa2482317350f597dc03d5f16/bg_semi_flag.png)
 
