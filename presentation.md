@@ -214,6 +214,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 1. Prototype transparency services
     - Multi-party SCITT service with JEP 30 supply chain data
 1. Outreach for :one: :two: :three: (papers; presentations)
+
 ---
 
 ### Deliverables
@@ -245,7 +246,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 - identify existing standards that meet some or all requirements
 - identify requirement gaps where new standards are necessary
 - create or update mapping of cross-standard data elements and interaction model
-- publish pillar 
+- publish pillar output from above steps as pillar guidance
 
 ---
 
