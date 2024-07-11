@@ -156,6 +156,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 ### Who changes?
 
 - Focus initial change on fabrication
+    - Not just fabs then tool makers for fabs
     - Largest leverage, biggest gaps 
 - After adoption by fabrication companies, expand in order of traceability difficulty
     - post-silicon
