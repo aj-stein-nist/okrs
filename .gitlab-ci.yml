@@ -1,0 +1,38 @@
+default:
+  image:
+    name: "${CI_TEMPLATE_REGISTRY_HOST}/marpteam/marp-cli@sha256:ec497dbaf5155e95ee41284aa600488b5d7fec7792939c9f0f4582c788d47c24"
+    entrypoint: [""]
+  before_script:
+    - apk add --no-cache bash make
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages_review:
+  stage: pages
+  script:
+    - make all
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    url: "https://ajslab.ipages.nist.gov/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html"
+  variables:
+    HUGO_BASEURL: "https://ajslab.ipages.nist.gov/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/"
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+pages:
+  stage: pages
+  script:
+    - make all
+  artifacts:
+    paths:
+      - public
+  environment: production      
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+stages:
+  - pages
