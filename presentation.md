@@ -246,7 +246,7 @@ Fabs → integrators → corporations (product and consume) → pure consumers
 - identify existing standards that meet some or all requirements
 - identify requirement gaps where new standards are necessary
 - create or update mapping of cross-standard data elements and interaction model
-- publish pillar output from above steps as pillar guidance
+- publish output from above steps as pillar guidance
 
 ---
 
