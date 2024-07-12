@@ -36,7 +36,7 @@ A.J. Stein IT Cybersecurity Specialist NIST ITL CSD 773.02
 - September 2023 to March 2024
     - [Metaschema](https://pages.nist.gov/metaschema/) (information and data modeling)
     - [OSCAL](https://pages.nist.gov/OSCAL) (risk management + security automation)
-    - [BloSS@M](https://github.com/usnistgov/blossom-case-study/) (software )
+    - [BloSS@M](https://github.com/usnistgov/blossom-case-study/) (software asset management, permissioned blockchains, OSCAL)
 - Pivot, take experience from :point_up:, research, and apply to :point_down:
 - Now (March 2024 to now)
     - :mag_right: Transparency mechanisms for hardware and software understanding :mag:
@@ -59,6 +59,8 @@ A.J. Stein IT Cybersecurity Specialist NIST ITL CSD 773.02
     - Hardware :fire: :fire: :fire:
     - Firmware :fire: :fire:
     - Software :fire:
+
+(:fire: is an urgency "metric," larger counts are more urgent)
 
 ---
 
